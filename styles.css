@@ -84,7 +84,7 @@ button {
     }
 
     .container {
-        width: 50%;
+        width: 60%;
         max-height: 100vh;
         display: flex;
         border: 2px solid black;
